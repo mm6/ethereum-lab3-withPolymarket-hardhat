@@ -1,4 +1,4 @@
-##  Spring 2026 Developing Blockchain Use Cases
+##  Developing Blockchain Use Cases  Spring 2026
 ### Carnegie Mellon University
 ### Due to Canvas: Monday, April 20, 2026
 ### Assigned: Monday, April 6, 2026
