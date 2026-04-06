@@ -186,7 +186,7 @@ A useful starting point: `https://docs.polymarket.com`
 
 ### Task
 
-Write a python script that retrieves the current order book for four active Polymarket markets of your choosing and computes the **spread** on each — the gap between the best available ask and the best available bid on the YES outcome token. Pick markets that are meaningfully different from each other in terms of topic and time horizon.
+Write a python or javascript program that retrieves the current order book for four active Polymarket markets of your choosing and computes the **spread** on each — the gap between the best available ask and the best available bid on the YES outcome token. Pick markets that are meaningfully different from each other in terms of topic and time horizon.
 
 Your script should produce a formatted summary showing, at minimum, the market question, best bid, best ask, and spread for each of the four markets.
 
@@ -203,9 +203,9 @@ In a short written section accompanying your script, address the following:
 
 ## Submission
 
-Submit the following:
+Submit the following on the single pdf file:
 
 - `run-exchange-hw.js` with all exercises completed
 - A screenshot for each of E1–E8 showing the relevant terminal output
-- `polymarket-spreads.js` with working output
+- `polymarket-spreads.js` or `polymarket-spreads.py` with working output
 - Written responses to the three analysis questions in Part 2
