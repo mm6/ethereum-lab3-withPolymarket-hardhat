@@ -6,10 +6,9 @@
 ### Deliverable: A single .pdf file named Lab3.pdf with clearly labelled answers.
 
 ### Students may choose to do this lab or the less challenging lab
-### titled ethereum-lab3-hardhat.
+### (Traditional) titled ethereum-lab3-hardhat.
 
-# Developing Blockchain Use Cases Spring 2026
-  Authors: Justin Grose and Michael McCarthy
+Authors: Justin Grose and Michael McCarthy
 
 # Prediction Market Lab — Hardhat & Polymarket
 
