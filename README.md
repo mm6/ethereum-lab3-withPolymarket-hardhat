@@ -1,6 +1,15 @@
+##  Spring 2026 Developing Blockchain Use Cases
+### Carnegie Mellon University
+### Due to Canvas: Monday, April 20, 2026
+### Assigned: Monday, April 6, 2026
+### 10 Points
+### Deliverable: A single .pdf file named Lab3.pdf with clearly labelled answers.
+
+### Students may choose to do this lab or the less challenging lab
+### titled ethereum-lab3-hardhat.
+
 # Developing Blockchain Use Cases Spring 2026
   Authors: Justin Grose and Michael McCarthy
-  This lab may be completed for full lab 3 credit.
 
 # Prediction Market Lab — Hardhat & Polymarket
 
